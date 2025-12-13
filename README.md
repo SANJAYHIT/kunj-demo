@@ -1,2 +1,4 @@
 # kunj-demo
-it is first git repository.
+it is my first git repository in our life.
+by- kunj bihari mahto.
+
